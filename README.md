@@ -30,40 +30,7 @@ A modern and responsive restaurant landing page designed to showcase **desserts,
 
 ---
 
-## ⚙️ Getting Started  
-
-### Clone the repo  
-```bash
-git clone https://github.com/your-username/sipnsavor-landing.git
-cd sipnsavor-landing
-````
-
-### Install dependencies
-
-```bash
-yarn install
-# or
-npm install
-```
-
-### Run the development server
-
-```bash
-yarn dev
-# or
-npm run dev
-```
-
-App will be available at:
-👉 `http://localhost:3000`
-
----
-
-## 👩‍💻 Developer
-
-**Bushra Sayyed**
-
----
+## 👩‍💻 Developer - **Bushra Sayyed**
 
 ### ⭐ If you like this project, don’t forget to **star the repo**!
 ---
