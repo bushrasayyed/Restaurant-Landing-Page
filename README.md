@@ -61,7 +61,7 @@ App will be available at:
 
 ## 👩‍💻 Developer
 
-**Bushra Sayyed** – [LinkedIn](www.linkedin.com/in/bushra-sayyed-30b78a21b)
+**Bushra Sayyed**
 
 ---
 
